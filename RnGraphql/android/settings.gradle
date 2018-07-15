@@ -1,0 +1,3 @@
+rootProject.name = 'RnGraphql'
+
+include ':app'
